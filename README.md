@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Miguel Luiz e Sou estudante focado em desenvolvimento 
+Me chamo Miguel Luiz e sou um estudante focado em desenvolvimento 
 Back-end, com sólida base em Java, Spring Boot e desenvolvimento de APIs, utilizando
 a IDE IntelliJ para o desenvolvimento de projetos. Também possuo conhecimento no gerenciamento 
 bancos de dados relacionais com MySQL e utilizo Git/GitHub para controle de versão.
