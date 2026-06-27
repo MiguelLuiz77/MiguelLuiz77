@@ -43,3 +43,5 @@ para aplicar esses conhecimentos na prática e continuar evoluindo.
 
 <img align="left" alt="GitHub Stats" height="150px" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=MiguelLuiz77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img align="left" alt="GitHub Stats" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLuiz77&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+
+
